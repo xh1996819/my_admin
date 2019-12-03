@@ -1,5 +1,7 @@
 import Vue from 'vue'
 
+import 'normalize.css/normalize.css' // CSS reset
+
 // 引入element-ui
 import ElementUI from 'element-ui'
 import 'element-ui/lib/theme-chalk/index.css'
